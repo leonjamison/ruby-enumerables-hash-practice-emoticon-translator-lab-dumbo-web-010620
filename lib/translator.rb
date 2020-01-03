@@ -1,6 +1,8 @@
 # require modules here
 
 def load_library
+  end
+  {}
   # code goes here
 end
 
